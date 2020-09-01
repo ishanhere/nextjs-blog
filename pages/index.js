@@ -16,6 +16,9 @@ export default function Home() {
           ishan1
         </h1>
         <h1 className="title">
+          ishan2
+        </h1>
+        <h1 className="title">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
