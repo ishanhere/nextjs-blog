@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-      <h1 className="title">
+      {/* <h1 className="title">
           ishan
         </h1>
         <h1 className="title">
@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
         <h1 className="title">
           ishan2
-        </h1>
+        </h1> */}
         <h1 className="title">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
@@ -35,8 +35,8 @@ export default function Home() {
           <a href="https://nextjs.org/learn" className="card">
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>git clone git@github.com-{your-username}:{the-repo-organisation-or-owner-user-name}/{the-repo-name}.git
-
+          </a>
+          {/* git clone git@github.com-{ishanhere}:{ishanhere}/{nextjs-blog}.git */}
           <a
             href="https://github.com/zeit/next.js/tree/master/examples"
             className="card"
