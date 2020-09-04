@@ -1,7 +1,13 @@
-export default function test() {
-   return ( 
-    <main>
-        <div>testing - 'When a file is added to the pages directory it's automatically available as a route.'</div>
-    </main>
-   )
-}
+
+export default function FirstPost() {
+    return (
+      <>
+        <h1>First Post</h1>
+        <h2>
+          <Link href="/">
+            <a>Back to home</a>
+          </Link>
+        </h2>
+      </>
+    )
+  }
